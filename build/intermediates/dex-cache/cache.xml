@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\FragmentStaticLayout\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fbf2b063f5e104b2a77b5d95f89407f2ee44d740">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\FragmentStaticLayout\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_99ca1e606f68753bb443a87967dc134ea40d7612.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mohammed\AndroidStudioProjects\FragmentStaticLayout\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5245aa80237ff6563df7acdd17e90141e5bf472f">
+        <dex dex="C:\Users\Mohammed\AndroidStudioProjects\FragmentStaticLayout\app\build\intermediates\pre-dexed\debug\instant-run_d8adc04a1d317f0a12dc6310c6e74284ba2ee5bc.jar" />
+    </item>
+
+</items>
